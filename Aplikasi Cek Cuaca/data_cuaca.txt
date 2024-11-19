@@ -1,0 +1,2 @@
+Kota,Keterangan,Suhu,Kelembapan
+Banjarmasin,moderate rain,34.08,71
